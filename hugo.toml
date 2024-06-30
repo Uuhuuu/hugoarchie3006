@@ -2,6 +2,7 @@ baseURL = ''
 languageCode = 'pl-PL'
 title = 'Propaganda'
 theme= "archie"
+language = 'pl'
 
 name = "Theme Name"
 license = "MIT"
@@ -31,6 +32,7 @@ paginate=4 # articles per page
 	tags = ["informacje,", "news,", "finanse,", "psychologia"]
 	robots = "index, follow"
 	name = "Paweł Łajewski"
+	lang = "pl"
 
 # Social Tags
 
