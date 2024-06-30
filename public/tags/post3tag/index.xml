@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post3tag on Propaganda</title>
+    <link>//localhost:1313/tags/post3tag/</link>
+    <description>Recent content in Post3tag on Propaganda</description>
+    <generator>Hugo</generator>
+    <language>pl-PL</language>
+    <copyright>© JesterPawel</copyright>
+    <lastBuildDate>Sun, 14 Apr 2024 15:32:29 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/post3tag/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 3</title>
+      <link>//localhost:1313/posts/post-3/</link>
+      <pubDate>Sun, 14 Apr 2024 15:32:29 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-3/</guid>
+      <description>asd&#xA;Rozdział nr 1&#xA;Rozdział nr 2 Rozdział nr 3 Rozdział nr 4 Rozdział nr 5 Rozdział nr 6 </description>
+    </item>
+  </channel>
+</rss>

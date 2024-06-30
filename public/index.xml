@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Propaganda</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Propaganda</description>
+    <generator>Hugo</generator>
+    <language>pl-PL</language>
+    <copyright>© JesterPawel</copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 19:00:01 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post 4x</title>
+      <link>//localhost:1313/posts/post-4x/</link>
+      <pubDate>Tue, 18 Jun 2024 19:00:01 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-4x/</guid>
+      <description>Images Czy to działa? Dave Herring Dave Herring Napisy pomiędzy zdjęciami&#xA;hye Github Gist Youtube video Tweet How dangerous the US debt crisis has become?&#xA;In the last 4 years, the US debt has skyrocketed by a $11 trillion.&#xA;This is the size of 40% of the US economy’s GDP.&#xA;By comparison, to reach the first $11 trillion of debt for the US it took 220 years👇https://t.co/vlghCZcVsg&#xA;&amp;mdash; Global Markets Investor (@GlobalMktObserv) June 8, 2024 Vimeo Instagram View this post on Instagram Callouts 💡 I guess this works&#xD;</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>//localhost:1313/posts/post-3/</link>
+      <pubDate>Sun, 14 Apr 2024 15:32:29 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-3/</guid>
+      <description>asd&#xA;Rozdział nr 1&#xA;Rozdział nr 2 Rozdział nr 3 Rozdział nr 4 Rozdział nr 5 Rozdział nr 6 </description>
+    </item>
+    <item>
+      <title>Post X2</title>
+      <link>//localhost:1313/posts/post-x2/</link>
+      <pubDate>Sun, 14 Apr 2024 15:32:29 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-x2/</guid>
+      <description>czy ty wiesz</description>
+    </item>
+    <item>
+      <title>Post X</title>
+      <link>//localhost:1313/posts/post-x/</link>
+      <pubDate>Sun, 14 Apr 2024 15:31:29 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-x/</guid>
+      <description>hey</description>
+    </item>
+    <item>
+      <title>Co jest grane?</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Celem bloga, którego właśnie przeglądasz (btw dziękuję), jest rzucenie światła na kilka nieścisłości, jeśli chodzi o zasady funkcjonowania społeczeństwa w krajach rozwiniętych.&#xA;W naszej rutynowej gonitwie rzadko zwracamy uwagę na to, jakie siły nadały kierunek naszej egzystencji.&#xA;Jaki naprawdę wpływ na nasze życie ma narodowość, sytuacja geopolityczna, postęp technologiczny? Dlaczego mimo, że jesteśmy biologicznie niemalże identyczni, tak się różnimy, nawet w obrębie własnej społeczności? Czy zmiana władzy i odwrócenie losu człowieka jest możliwe, a może wszystko jest już z góry przesądzone?</description>
+    </item>
+    <item>
+      <title>Ekonomia binarna</title>
+      <link>//localhost:1313/posts/post-1/</link>
+      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
+      <guid>//localhost:1313/posts/post-1/</guid>
+      <description>Chcąc podejmować świadome decyzje, winniśmy zrozumieć zasady, normy przyjęte w obrębie określonej społeczności w której funkcjonujemy. Nie jest to zadanie tak błahe, jak mogłoby się na pierwszy rzut oka wydawać, wszakże każdy z nas naturalnym widzi wszystko co się dzieje dookoła niego. Spróbujmy odpowiedzieć sobie na pytanie:&#xA;W jakim tak właściwie systemie ekonomicznym żyjemy? Jeśli mieszkasz w kraju demokratycznym, standardową odpowiedzią będzie - kapitalizm.</description>
+    </item>
+  </channel>
+</rss>

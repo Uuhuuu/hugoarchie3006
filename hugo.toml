@@ -1,0 +1,73 @@
+baseURL = ''
+languageCode = 'pl-PL'
+title = 'Propaganda'
+theme= "archie"
+
+name = "Theme Name"
+license = "MIT"
+licenselink = "Link to theme's license"
+min_version = "0.59.1"
+copyright = "© JesterPawel"
+
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourDisqusShortname"
+
+paginate=4 # articles per page
+
+[params]
+	mode="toggle" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Naszą egzystencję da się zaprogramować"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+	twitter = "Uuhuuu"
+	favicon = "/logo3.png"
+	description = "Zrozum mechanikę działania współczesnego świata. Naucz się rozszyfrowywać dezinformację i propagandę. Uzyskaj wgląd w psychologię ludzką, system finansowy. "
+	homepage = "Homepage description"
+	tags = ["informacje,", "news,", "finanse,", "psychologia"]
+	robots = "index, follow"
+	name = "Paweł Łajewski"
+
+# Social Tags
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/EchoPodlasia"
+
+[[params.social]]
+name = "Youtube"
+icon = "youtube"
+url = "https://www.youtube.com/@uuhuu"
+
+[[params.social]]
+name = "Jester's Music"
+icon = "music"
+url = "https://uuhuuu.github.io/"
+
+
+# Main menu Items
+
+[[menu.main]]
+name = "Główna"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Wpisy"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Info"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tagi"
+url = "/tags"
+weight = 4
