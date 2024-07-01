@@ -5,7 +5,7 @@
   --mainheaderborder: #a200ff;
   --darkBordercl: red;
   --callouctcolor: dodgerblue;
-  --hovercolor: #0739ff;
+  --hovercolor: navy;
   --darkMaincolor: #f6fa50;
   --mainTitleColor: pink;
   --darkTitleColor: brown;
@@ -28,7 +28,7 @@ body {
 }
 
 ::selection {
-  background: darkblue;
+  background: var(--maincolor);
   color: #f3f3f3;
 }
 

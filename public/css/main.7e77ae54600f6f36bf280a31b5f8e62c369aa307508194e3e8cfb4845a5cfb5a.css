@@ -5,7 +5,7 @@
   --mainheaderborder: #a200ff;
   --darkBordercl: red;
   --callouctcolor: dodgerblue;
-  --hovercolor: #0739ff;
+  --hovercolor: navy;
   --darkMaincolor: #f6fa50;
   --mainTitleColor: pink;
   --darkTitleColor: brown;
@@ -21,7 +21,7 @@ html {
 body {
   display: block;
   margin: 8px;
-  background-color: #fff0ce;
+  background-color: #ffeaba;
 }
 * {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
@@ -80,7 +80,7 @@ ul > li::before {
 
 /* Images */
 img {
-  border: 2px solid #0e0920;
+  border: 3px solid var(--maincolor);
   max-width: 100%;
   border-radius: 5%;
 }
@@ -188,7 +188,7 @@ h1 {
   margin-bottom: 0.7em;
 }
 h2 {
-  font-size: 1.14rem;
+  font-size: 1.2rem;
   margin-top: 1.5em;
   margin-bottom: 0.7em;
 }
@@ -291,9 +291,7 @@ article .title {
     rgb(141 0 255 / 42%)
   );
 }
-.site-description p {
-  font-weight: 700;
-}
+
 .post-tags {
   display: ruby;
 }
