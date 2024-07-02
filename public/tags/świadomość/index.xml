@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Świadomość on Propaganda</title>
+    <link>//localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
+    <description>Recent content in Świadomość on Propaganda</description>
+    <generator>Hugo</generator>
+    <language>pl-PL</language>
+    <copyright>© JesterPawel</copyright>
+    <lastBuildDate>Tue, 02 Jul 2024 15:32:29 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zbiorowa Opowieść</title>
+      <link>//localhost:1313/posts/post-x2/</link>
+      <pubDate>Tue, 02 Jul 2024 15:32:29 +0200</pubDate>
+      <guid>//localhost:1313/posts/post-x2/</guid>
+      <description>Zbiorowa opowieść - to ona tworzy otaczającą nas rzeczywistość. Tworzona i pielęgnowana przez media, kulturę, tradycje, religie, oświatę etc. To ona sprawia, że naród staje się narodem, żołnierz kładzie swoje życie na szali i całe państwo stoi w ryzach.&#xA;Opowieść - ta zbiorowa iluzja, jest zarazem barierą ochronną przed innymi opowieściami. Im lepsza i im dłużej implementowana - tym skuteczniejsza. Dostęp do internetu staje się szansą i ryzykiem dla iluzjonistów. Szansa jest na stworzenie opowieści na niespotkaną wcześniej skalę, dzięki której społeczeństwa będące pod wpływem jej uroku zrobią wiele, aby ta opowieść trwała jak najdłużej.</description>
+    </item>
+  </channel>
+</rss>

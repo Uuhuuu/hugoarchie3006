@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Swiadomosc on Propaganda</title>
+    <link>//localhost:1313/tags/swiadomosc/</link>
+    <description>Recent content in Swiadomosc on Propaganda</description>
+    <generator>Hugo</generator>
+    <language>pl-PL</language>
+    <copyright>© JesterPawel</copyright>
+    <atom:link href="//localhost:1313/tags/swiadomosc/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

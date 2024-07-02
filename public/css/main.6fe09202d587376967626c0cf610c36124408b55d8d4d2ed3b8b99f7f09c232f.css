@@ -74,7 +74,6 @@ ul li {
   /* text-indent: -2ch; */
   line-height: 1.6em;
   margin-bottom: inherit;
-  margin-right: 0.4rem;
 }
 ul > li::before {
   content: " ⊳ ";
@@ -187,7 +186,7 @@ h6 {
 }
 h1 {
   font-size: 1.17rem;
-  margin-top: 2.2rem;
+  margin-top: 2.8rem;
   margin-bottom: 0.4em;
 }
 h2 {
@@ -255,7 +254,6 @@ footer {
 
 time {
   color: grey;
-  font-size: 0.9rem;
 }
 
 /* Posts */
@@ -285,7 +283,6 @@ article .title {
 }
 
 .site-description {
-  margin-bottom: 2.4rem;
   display: flex;
   justify-content: center;
   border: double var(--mainheaderborder);
@@ -418,8 +415,5 @@ table td {
   border: 1px solid #dfe2e5;
 }
 .datawpis {
-  margin-bottom: -1rem;
-  margin-top: 0.05rem;
-  margin-left: 1.3rem;
-  font-size: 0.85rem;
+  font-size: larger;
 }

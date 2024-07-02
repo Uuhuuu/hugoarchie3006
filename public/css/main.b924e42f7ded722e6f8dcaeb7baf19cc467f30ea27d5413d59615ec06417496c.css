@@ -75,6 +75,8 @@ ul li {
   line-height: 1.6em;
   margin-bottom: inherit;
   margin-right: 0.4rem;
+  float: left;
+  display: contents;
 }
 ul > li::before {
   content: " ⊳ ";
@@ -255,7 +257,6 @@ footer {
 
 time {
   color: grey;
-  font-size: 0.9rem;
 }
 
 /* Posts */
@@ -285,7 +286,7 @@ article .title {
 }
 
 .site-description {
-  margin-bottom: 2.4rem;
+  margin-bottom: 2.6rem;
   display: flex;
   justify-content: center;
   border: double var(--mainheaderborder);
@@ -419,7 +420,7 @@ table td {
 }
 .datawpis {
   margin-bottom: -1rem;
-  margin-top: 0.05rem;
+  margin-top: 0rem;
   margin-left: 1.3rem;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }

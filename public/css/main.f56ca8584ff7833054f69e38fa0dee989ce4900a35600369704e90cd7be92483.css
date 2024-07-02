@@ -255,7 +255,6 @@ footer {
 
 time {
   color: grey;
-  font-size: 0.9rem;
 }
 
 /* Posts */
@@ -285,7 +284,7 @@ article .title {
 }
 
 .site-description {
-  margin-bottom: 2.4rem;
+  margin-bottom: 2.6rem;
   display: flex;
   justify-content: center;
   border: double var(--mainheaderborder);
@@ -310,6 +309,8 @@ article .title {
 
 .tags li::before {
   content: " ⌦ ";
+  margin-right: 1.4rem;
+  float: right;
 }
 .tags a {
   border-bottom: 3px solid var(--maincolor);
@@ -419,7 +420,7 @@ table td {
 }
 .datawpis {
   margin-bottom: -1rem;
-  margin-top: 0.05rem;
+  margin-top: 0rem;
   margin-left: 1.3rem;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }

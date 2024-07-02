@@ -285,7 +285,7 @@ article .title {
 }
 
 .site-description {
-  margin-bottom: 2.4rem;
+  margin-bottom: 2.6rem;
   display: flex;
   justify-content: center;
   border: double var(--mainheaderborder);
