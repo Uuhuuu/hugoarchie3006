@@ -3,7 +3,7 @@ title: "Markdown content"
 date: 2024-06-18T19:00:01+02:00
 draft: false
 description: "Content in markdown showcase"
-tags: [random, zmiana]
+tags: [random, programowanie]
 ---
 
 ## Images

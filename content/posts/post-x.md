@@ -16,3 +16,41 @@ draft: false
 ##### Rozdział nr 5
 
 ###### Rozdział nr 6
+
+**bold text**
+
+_italicized text_
+
+> blockquote
+
+- First item
+- Second item
+- Third item
+
+`code`
+
+    <p>hello world</p>
+
+[title](https://www.example.com)
+
+| Table     | Syntax | Description |
+| --------- | ------ | ----------- |
+| Header    | Title  |
+| Paragraph | Text   |
+
+Fenced Code Block
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+
+- [ ] Update the website
+
+Footnote Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+```
+
+```
