@@ -11,20 +11,23 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/random/</loc>
+    <loc>//localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</loc>
+    <lastmod>2024-07-04T16:09:50+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/zmiana/</loc>
-    <lastmod>2024-07-04T16:09:50+02:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
-    <lastmod>2024-07-02T15:32:29+02:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/post-x2/</loc>
     <lastmod>2024-07-02T15:32:29+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/zmiana/</loc>
+    <lastmod>2024-07-02T15:32:29+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/random/</loc>
+    <lastmod>2024-06-30T15:32:29+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/post-3/</loc>
     <lastmod>2024-06-30T15:32:29+02:00</lastmod>
@@ -33,6 +36,9 @@
     <lastmod>2024-06-30T15:32:29+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/post-4x/</loc>
+    <lastmod>2024-06-18T19:00:01+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/programowanie/</loc>
     <lastmod>2024-06-18T19:00:01+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/posts/post-x/</loc>

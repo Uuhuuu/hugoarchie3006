@@ -12,4 +12,4 @@ W gruncie rzeczy, praca komentatorów sportowych sprowadza się do modulowania t
 
 Na podobnej zasadzie śmiech w serialach komediowych (coraz rzadziej już spotykany). Jesteśmy zwierzętami stadnymi i otoczenie w którym przebywamy, oferuje nam zasady funkcjonowania, które obowiązują w danym środowisku. Bo gdy wlatujesz między wrony, wroną się też stajesz.
 
-{{< figure src="https://image.pollinations.ai/prompt/Realistic%20scenery%20with%20crow%20perched%20on%20a%20branch?width=1920&height=1080&nologo=poll&nofeed=yes&seed=12" title="A crow" >}}
+{{< figure src="https://image.lexica.art/full_webp/0f04abd2-cefa-4f9c-80ea-938ef553cdd7" title="A crow" >}}

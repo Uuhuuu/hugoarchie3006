@@ -37,9 +37,9 @@ paginate=4 # articles per page
 # Social Tags
 
 [[params.social]]
-name = "Twitter"
+name = "X"
 icon = "twitter"
-url = "https://twitter.com/EchoPodlasia"
+url = "https://x.com/JesterPawel"
 
 [[params.social]]
 name = "Youtube"
