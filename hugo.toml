@@ -47,6 +47,11 @@ icon = "youtube"
 url = "https://www.youtube.com/@uuhuu"
 
 [[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = "https://www.instagram.com/nieznanypodlasianin/"
+
+[[params.social]]
 name = "Jester's Music"
 icon = "music"
 url = "https://uuhuuu.github.io/"
