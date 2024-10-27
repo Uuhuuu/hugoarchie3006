@@ -8,7 +8,7 @@ tags: [finanse, ekonomia]
 
 ## Taniec rynkowy: zrozumienie rentowności obligacji skarbowych w 2024 r
 
-Kiedy Rezerwa Federalna obniżyła stopy o 0,5% (z 5,38% do 4,88%) we wrześniu, podręcznik rynkowy sugerował przewidywalny ciąg zdarzeń:
+Kiedy Rezerwa Federalna obniżyła stopy o 0,5% we wrześniu, podręcznik rynkowy sugerował przewidywalny ciąg zdarzeń:
 
 1 **Rajd na giełdzie** 📈
 
