@@ -60,3 +60,6 @@ Rynek wydaje się opowiadać nam wiele historii jednocześnie:
 - Siła gospodarcza (rosnące akcje 📈)
 - Obawy o inflację (rosnące złoto 📈)
 - Niepewność co do przyszłych stóp procentowych (rosnące rentowności 📈)
+
+
+{{< figure src="/StocksToBonds-Ratio.png" title="S&P 500 to Bonds Ratio" class="center-image" >}}
