@@ -2,7 +2,7 @@
 title: "Markdown Syntax Handbook"
 date: 2024-04-14T15:31:29+02:00
 description: "Jak w tytule. Po prostu syntax"
-draft: false
+draft: true
 ---
 
 # Rozdział nr 1

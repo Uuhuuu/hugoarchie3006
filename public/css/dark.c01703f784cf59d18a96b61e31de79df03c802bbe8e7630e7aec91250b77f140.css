@@ -1,0 +1,196 @@
+body {
+  color: white;
+  background-color: #202124;
+}
+
+::-moz-selection {
+  background: blue;
+  color: #fff;
+  text-shadow: none;
+}
+
+::selection {
+  background: #6b0000;
+  color: #fff;
+  text-shadow: none;
+}
+.meta {
+  color: #999;
+}
+hr {
+  border-top: 3px dashed var(--darkThemeLine);
+}
+code {
+  background-color: lightblue;
+  color: black;
+  text-decoration: bold;
+  padding: 0.1em 0.2em;
+}
+pre {
+  background-color: #272822;
+  line-height: 1.4;
+  overflow-x: auto;
+  padding: 1em;
+}
+blockquote {
+  border-color: var(--darkThemeLine);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ddd;
+}
+h1::before {
+  content: "▶ ";
+  color: var(--darkBordercl);
+}
+h2::before {
+  color: var(--darkMaincolor);
+  content: "▷ ";
+}
+h3::before {
+  color: var(--darkMaincolor);
+  content: "⦿ ";
+}
+h4::before {
+  color: var(--darkMaincolor);
+  content: "╳ ";
+}
+h5::before {
+  color: var(--darkMaincolor);
+  content: "✖ ";
+}
+h6::before {
+  color: var(--darkMaincolor);
+  content: "〇 ";
+}
+img {
+  border: 3px solid #ececec;
+  max-width: 100%;
+  border-radius: 5%;
+}
+
+a {
+  border-bottom: 2px solid var(--darkMaincolor);
+  color: inherit;
+}
+a:hover {
+  background-color: var(--darkMaincolor);
+  color: black;
+}
+
+/* svg icon dark theme hover */
+svg:hover {
+  border-radius: 50%; /* Makes the SVG round */
+  color: #000000;
+  background-color: #ffffff; /* Changes background color to black on hover */
+}
+
+.site-description a {
+  color: #ddd;
+}
+.site-description {
+  border: double var(--darkBordercl);
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 0, 0, 0),
+    var(--darkSiteDescription),
+    rgba(255, 0, 0, 0)
+  );
+}
+.site-description a:hover {
+  color: black;
+}
+
+.tags a {
+  border-bottom: 3px solid var(--darkMaincolor);
+}
+.tags a:hover {
+  background-color: var(--darkMaincolor);
+  color: black;
+}
+
+#mainTitle a {
+  color: white;
+  border-bottom: thick double #b6ce32;
+}
+#mainTitle a:hover {
+  color: #060b0e;
+  border-bottom: thick double #060b0e;
+  border-top: thick double #060b0e;
+  font-weight: 600;
+}
+
+.site-title a {
+  color: white;
+  text-decoration: none !important;
+}
+
+.header nav,
+.footer {
+  border-color: #333;
+}
+
+.highlight {
+  background-color: #333;
+}
+.soc:hover {
+  color: black;
+}
+.draft-label {
+  color: var(--darkMaincolor);
+  background-color: blue;
+}
+.highlight pre code[class="language-javaScript"]::before,
+.highlight pre code[class="language-js"]::before {
+  content: "js";
+  background: #f7df1e;
+  color: black;
+}
+.highlight pre code[class*="language-yml"]::before,
+.highlight pre code[class*="language-yaml"]::before {
+  content: "yaml";
+  background: #f71e6a;
+  color: white;
+}
+.highlight pre code[class*="language-shell"]::before,
+.highlight pre code[class*="language-bash"]::before,
+.highlight pre code[class*="language-sh"]::before {
+  content: "shell";
+  background: green;
+  color: white;
+}
+.highlight pre code[class*="language-json"]::before {
+  content: "json";
+  background: dodgerblue;
+  color: #000000;
+}
+.highlight pre code[class*="language-python"]::before,
+.highlight pre code[class*="language-py"]::before {
+  content: "py";
+  background: blue;
+  color: yellow;
+}
+.highlight pre code[class*="language-css"]::before {
+  content: "css";
+  background: cyan;
+  color: black;
+}
+.highlight pre code[class*="language-go"]::before {
+  content: "Go";
+  background: cyan;
+  color: royalblue;
+}
+.highlight pre code[class*="language-md"]::before,
+.highlight pre code[class*="language-md"]::before {
+  content: "Markdown";
+  background: royalblue;
+  color: whitesmoke;
+}
+footer {
+  border-top: 0.4rem dotted var(--darkBordercl);
+}
