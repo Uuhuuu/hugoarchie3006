@@ -2,7 +2,7 @@
 title: "Rozwój psychologiczny człowieka"
 date: 2024-11-15T17:58:20+01:00
 draft: false
-description: "psychologia, zmiana, rozwój, inteligencja"
+description: "Rozwój psychologiczny człowieka to proces ciągłego zmiany i ewolucji w różnych aspektach naszego życia. Ten post omawia kluczowe etapy tego procesu oraz czynniki wpływające na jego przebieg."
 tags: [psychologia, zmiana, inteligencja]
 ---
 
@@ -13,10 +13,10 @@ tags: [psychologia, zmiana, inteligencja]
 Drogą człowieka jest przetrwanie. Aby przetrwać realizuje on cele, bądź ustanawia nowe. W tym celu nasz organizm można interpretować jako system ciągle przetwarzający informacje z otoczenia w celu osiagniecia ustanowionych celów, bądź ustanawiania nowych. Bez tych procesów człowiek błąka się w świecie, tracąc powód do życia, pogrążony w negatywnych emocjach i stanach. Do tej grupy można zaliczyć potrzeby, cele, pragnienia, rzadze.
 
 Skupiając się na negatywnych stanach, wynikach twój organizm dostosuje rzeczywistość, aby ten cel został zrealizowany. Ten kto będzie uważał się za męczennika będzie cierpiał, ten kto uważa, że jest nieudacznikiem, będzie nieudolny.
-Ten kto będzie uważał się za zwycięzce będzie **zwycięzcą**.
+Ten kto będzie uważał się za zwycięzce, będzie **zwycięzcą**.
 
-Jeśli w twoim środowisku osoby zaprogramowały Cię abyś nie osiągnął sukcesu, i przyjąłeś tą wizję podświadomie jako cel swojego życia, nieważne jak byś się nie starał - nie osiągniesz sukcesu.
-Powodem dla którego ludzie z Twojego otoczenia nie chcą abyś odniósł sukcesu:
+Jeśli w twoim środowisku osoby zaprogramowały Cię abyś nie osiągnął sukcesu i przyjąłeś tą wizję podświadomie jako cel swojego życia, nieważne jak byś się nie starał - nie osiągniesz sukcesu.
+Oto kilka powodów dla których ludzie z Twojego otoczenia podświadomie nie chcą, abyś odniósł sukcesu:
 
 - aby nie czuć się gorszym od Ciebie,
 - zazdrość,
@@ -27,8 +27,8 @@ Powodem dla którego ludzie z Twojego otoczenia nie chcą abyś odniósł sukces
 
 ### Ego to nie wróg
 
-_Ego_ jest to system wierzeń, idei, wartości, standardów które kształtują Twoją percepcję rzeczywistości. To opowieść, Twoja wersja otaczającej Cię rzeczywistości, interpretacja. Nie próbuj pozbyć się ego, celem jest rozszerzyć i rozwinąć to historię, pozbywając się limitujących wierzeń oraz wzmacniać i dodawać wierzenia który będą sprzyjały w osiąganiu ustanawianych przez Ciebie celów.
-Twój umysł automatycznie akceptuje lub odrzuca informacja, wedle oprogramowanie (tzn ego) które aktualnie posiada, aby osiągać cele które są zaprogramowane do ego. Dopamina i energia uzyskana przez Twoją ekspozycję na konkretne wydarzenie, zjawiska stanowią drogowskaz co jest Twoim podświadomym celem. Człowiek słyszy to, co chce usłyszeć.
+_Ego_ jest to system wierzeń, idei, wartości, standardów które kształtują Twoją percepcję rzeczywistości. To opowieść, Twoja wersja otaczającej Cię rzeczywistości, interpretacja świata w których żyjesz. Nie próbuj pozbyć się ego. Ego samo w sobie nie jest niczym zły. Celem jest rozszerzyć i rozwinąć tą opowieść, pozbywając się limitujących wierzeń oraz wzmacniać i dodawać wierzenia, który będą sprzyjały w osiąganiu ustanawianych przez Ciebie celów.
+Twój umysł automatycznie akceptuje lub odrzuca informacje, wedle oprogramowania (tzn ego) które aktualnie posiada, aby osiągać cele które są zaprogramowane i zgodne z aktualnym ego. Dopamina i energia uzyskana przez Twoją ekspozycję na konkretne wydarzenie, zjawiska stanowią drogowskaz co jest Twoim podświadomym celem. Człowiek słyszy to, co chce usłyszeć.
 Ból, negatywne emocje mogą być powodem tego, że oddalasz się od spełnienia celu, nie spełniasz celu lub ktoś zagraża osiagnieciu przez Ciebie danego celu.
 
 Twoje prawdziwe cele, pragnienia będą kalibrowały algorytm, aby podsuwał Ci szanse, zasoby umożliwiające Ci zrealizowanie marzeń, wierzeń.
@@ -72,9 +72,9 @@ Umysł nie będzie pracował nad osiąganiem celów jeśli nie będzie ich miał
 
 ## 3 kierunku rozwoju psychologicznego
 
-1.  Horyzontalny - poszerzanie spektrum w obrębie danego etapu rozwoju
-2.  Wertykalny - rozwój, transformacja osiąganie wzrostu, nowa perspektywa
-3.  Wertykalnie w dół - chwilowa lub stała regresja na skutek negatywnych wydarzeń/przeżyć
+1. Horyzontalny - poszerzanie spektrum w obrębie danego etapu rozwoju
+2. Wertykalny - rozwój, transformacja osiąganie wzrostu, nowa perspektywa
+3. Wertykalnie w dół - chwilowa lub stała regresja na skutek negatywnych wydarzeń/przeżyć
 
 Do rozwoju wertykalnego potrzeba:
 
@@ -147,8 +147,8 @@ Etap na którym tworzysz i modyfikujesz system według własnego uznania. Metape
 
 ### Analogia etapów rozwoju do systemu komputerowego
 
-Konwencjonalni korzystają z jednego oprogramowania w danym momencie (zazwyczaj przedawnionego), którego nie mają zamiaru porzucań, będą walczyć aby podtrzymać, usprawiedliwić system wierzeń z którego aktualnie korzystają. (Znowu, im dłużej dany system wierzeń im służył, tym więcej trudności w porzuceniu tegoż systemu).
-Post-konwencjonalni swobodnie poruszają się pomiędzy różnymi oprogramowania (punktami widzenia rzeczywistości #obserwator . Używają odpowiednich programów, grają w odpowiedni gdy wedle ich własnej wizji, pragnień, celów.
+Konwencjonalni korzystają z jednego oprogramowania w danym momencie (zazwyczaj przedawnionego), którego nie mają zamiaru porzucać, o którego będą walczyć aby podtrzymać. Będą usprawiedliwić owy system wierzeń z którego aktualnie korzystają. Znowu, im dłużej dany system wierzeń im służył, tym więcej trudności będą mieli w porzuceniu tegoż systemu.
+Post-konwencjonalni swobodnie poruszają się pomiędzy różnymi wersjami oprogramowanie własnego umysłu, sposobami interpretowania otaczającej ich rzeczywistości. Są obserwatorami. Używają odpowiednich programów, grają w odpowiedni gry. Wszystko to wedle ich własnej wizji, pragnień, celów.
 
 {{< figure src="/mind-expand.png" title="Mind Expansion" class="center-image" >}}
 
