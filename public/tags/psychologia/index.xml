@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Psychologia on Propaganda</title>
-    <link>//localhost:1313/tags/psychologia/</link>
+    <link>/tags/psychologia/</link>
     <description>Recent content in Psychologia on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sun, 17 Nov 2024 13:56:06 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/psychologia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/psychologia/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Frustracja i jak sobie z nią radzić?</title>
-      <link>//localhost:1313/posts/post-8/</link>
+      <title>O frustracji</title>
+      <link>/posts/post-8/</link>
       <pubDate>Sun, 17 Nov 2024 13:56:06 +0100</pubDate>
-      <guid>//localhost:1313/posts/post-8/</guid>
-      <description>Czym jest frustracja? Frustracja to uczucie napięcia, niepokoju lub nieporozumienia, które często występuje, gdy czujemy się niewłaściwie traktowani lub kiedy nasze oczekiwania są niespełnione. To jest naturalna reakcja na sytuacje, w których czujemy się bezsilni lub niewygodnie&#xA;Frustracja jest częścią życia. Niczym pogoda, jest przeważnie tymczasowa. Nie da się jej zapobiec, ale można zmienić sposób reagowania na nią. Zamiast z nią walczyć, spróbuj ją zaakceptować. Łatwiej powiedzieć niż zrobić, oczywiście. Wymaga to praktyki.</description>
+      <guid>/posts/post-8/</guid>
+      <description>Czym jest frustracja? Frustracja to uczucie napięcia, niepokoju lub nieporozumienia, które często występuje, gdy czujemy się niewłaściwie traktowani lub kiedy nasze oczekiwania są niespełnione. To jest naturalna reakcja na sytuacje, w których czujemy się bezsilni lub niewygodnie.&#xA;Frustracja jest częścią życia. Niczym pogoda, jest przeważnie tymczasowa. Nie da się jej zapobiec, ale można zmienić sposób reagowania na nią. Zamiast z nią walczyć, spróbuj ją zaakceptować. Łatwiej powiedzieć niż zrobić, oczywiście.</description>
     </item>
     <item>
       <title>Rozwój psychologiczny człowieka</title>
-      <link>//localhost:1313/posts/post-7/</link>
+      <link>/posts/post-7/</link>
       <pubDate>Fri, 15 Nov 2024 17:58:20 +0100</pubDate>
-      <guid>//localhost:1313/posts/post-7/</guid>
+      <guid>/posts/post-7/</guid>
       <description>How To Become More Intelligent Than 99% Of People&#xA;Droga jest celem, celem jest droga Drogą człowieka jest przetrwanie. Aby przetrwać realizuje on cele, bądź ustanawia nowe. W tym celu nasz organizm można interpretować jako system ciągle przetwarzający informacje z otoczenia w celu osiagniecia ustanowionych celów, bądź ustanawiania nowych. Bez tych procesów człowiek błąka się w świecie, tracąc powód do życia, pogrążony w negatywnych emocjach i stanach. Do tej grupy można zaliczyć potrzeby, cele, pragnienia, rzadze.</description>
     </item>
   </channel>

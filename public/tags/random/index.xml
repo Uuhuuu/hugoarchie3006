@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Random on Propaganda</title>
-    <link>//localhost:1313/tags/random/</link>
+    <link>/tags/random/</link>
     <description>Recent content in Random on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sun, 30 Jun 2024 15:32:29 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rola komentatorów sportowych</title>
-      <link>//localhost:1313/posts/post-3/</link>
+      <link>/posts/post-3/</link>
       <pubDate>Sun, 30 Jun 2024 15:32:29 +0200</pubDate>
-      <guid>//localhost:1313/posts/post-3/</guid>
+      <guid>/posts/post-3/</guid>
       <description>Na czym polega praca komentatorów sportowych? W gruncie rzeczy, praca komentatorów sportowych sprowadza się do modulowania tonacji wypowiedzi na ekscytującą, gdy piłka zbliża się do jednej z dwóch bramek (w przypadku piłki nożnej), a gdy piłka wpadnie do bramki imitowanie werbalnej ekstazy, zarażając tym samym wszystkich oglądających widowisko.&#xA;Na podobnej zasadzie śmiech w serialach komediowych (coraz rzadziej już spotykany). Jesteśmy zwierzętami stadnymi i otoczenie w którym przebywamy, oferuje nam zasady funkcjonowania, które obowiązują w danym środowisku.</description>
     </item>
     <item>
       <title>Ekonomia binarna</title>
-      <link>//localhost:1313/posts/post-1/</link>
+      <link>/posts/post-1/</link>
       <pubDate>Mon, 01 Apr 2024 02:01:58 +0530</pubDate>
-      <guid>//localhost:1313/posts/post-1/</guid>
+      <guid>/posts/post-1/</guid>
       <description>Chcąc podejmować świadome decyzje, winniśmy zrozumieć zasady, normy przyjęte w obrębie określonej społeczności w której funkcjonujemy. Nie jest to zadanie tak błahe, jak mogłoby się na pierwszy rzut oka wydawać, wszakże każdy z nas naturalnym widzi wszystko co się dzieje dookoła niego. Spróbujmy odpowiedzieć sobie na pytanie:&#xA;W jakim tak właściwie systemie ekonomicznym żyjemy? Jeśli mieszkasz w kraju demokratycznym, standardową odpowiedzią będzie - kapitalizm.</description>
     </item>
   </channel>

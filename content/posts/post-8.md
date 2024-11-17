@@ -10,7 +10,7 @@ tags: [psychologia, zmiana]
 
 ## Czym jest frustracja?
 
-Frustracja to uczucie napięcia, niepokoju lub nieporozumienia, które często występuje, gdy czujemy się niewłaściwie traktowani lub kiedy nasze oczekiwania są niespełnione. To jest naturalna reakcja na sytuacje, w których czujemy się bezsilni lub niewygodnie
+Frustracja to uczucie napięcia, niepokoju lub nieporozumienia, które często występuje, gdy czujemy się niewłaściwie traktowani lub kiedy nasze oczekiwania są niespełnione. To jest naturalna reakcja na sytuacje, w których czujemy się bezsilni lub niewygodnie.
 
 Frustracja jest częścią życia. Niczym pogoda, jest przeważnie tymczasowa. Nie da się jej zapobiec, ale można zmienić sposób reagowania na nią. Zamiast z nią walczyć, spróbuj ją zaakceptować. Łatwiej powiedzieć niż zrobić, oczywiście. Wymaga to praktyki.
 
