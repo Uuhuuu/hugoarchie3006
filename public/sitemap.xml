@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ego/</loc>
+    <loc>/tags/ego/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/psychologia/</loc>
+    <loc>/tags/psychologia/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-9/</loc>
+    <loc>/posts/post-9/</loc>
     <lastmod>2024-12-04T14:53:32+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-8/</loc>
+    <loc>/posts/post-8/</loc>
     <lastmod>2024-11-17T13:56:06+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/zmiana/</loc>
+    <loc>/tags/zmiana/</loc>
     <lastmod>2024-11-17T13:56:06+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/inteligencja/</loc>
+    <loc>/tags/inteligencja/</loc>
     <lastmod>2024-11-15T17:58:20+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-7/</loc>
+    <loc>/posts/post-7/</loc>
     <lastmod>2024-11-15T17:58:20+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/ekonomia/</loc>
+    <loc>/tags/ekonomia/</loc>
     <lastmod>2024-10-27T13:44:46+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/finanse/</loc>
+    <loc>/tags/finanse/</loc>
     <lastmod>2024-10-27T13:44:46+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-6/</loc>
+    <loc>/posts/post-6/</loc>
     <lastmod>2024-10-27T13:44:46+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-5/</loc>
+    <loc>/posts/post-5/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</loc>
+    <loc>/tags/spo%C5%82ecze%C5%84stwo/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
+    <loc>/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-2/</loc>
+    <loc>/posts/post-2/</loc>
     <lastmod>2024-07-02T15:32:29+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-3/</loc>
+    <loc>/posts/post-3/</loc>
     <lastmod>2024-06-30T15:32:29+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/sport/</loc>
+    <loc>/tags/sport/</loc>
     <lastmod>2024-06-30T15:32:29+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/post-1/</loc>
+    <loc>/posts/post-1/</loc>
     <lastmod>2024-04-01T02:01:58+05:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url>
 </urlset>

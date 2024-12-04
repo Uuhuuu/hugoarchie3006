@@ -70,4 +70,4 @@ Czasem najlepszym rozwiązaniem jest przyjęcie, że każdy ma prawo do swojego 
 
 Teoria wielopoziomowości światopoglądowej oferuje nową perspektywę na rozwiązywanie konfliktów. Zamiast walczyć o dominację na poziomie najwyższych warstw piramidy, warto skupić się na wspólnych fundamentach i budować zrozumienie od podstaw. Dzięki temu spory mogą stać się okazją do wzajemnego poznania i rozwoju, a nie bezproduktywną wymianą argumentów.
 
-{{< figure src="https://image.lexica.art/full_webp/3e3afbd8-d94a-457c-b063-41e1aab379eb" title="Pasterze i owce" >}}
+{{< figure src="https://image.lexica.art/full_webp/3e3afbd8-d94a-457c-b063-41e1aab379eb" title="Piramida świadomości" >}}

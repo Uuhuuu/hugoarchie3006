@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sport on Propaganda</title>
-    <link>//localhost:1313/tags/sport/</link>
+    <link>/tags/sport/</link>
     <description>Recent content in Sport on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sun, 30 Jun 2024 15:32:29 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/sport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/sport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rola komentatorów sportowych</title>
-      <link>//localhost:1313/posts/post-3/</link>
+      <link>/posts/post-3/</link>
       <pubDate>Sun, 30 Jun 2024 15:32:29 +0200</pubDate>
-      <guid>//localhost:1313/posts/post-3/</guid>
+      <guid>/posts/post-3/</guid>
       <description>Na czym polega praca komentatorów sportowych? W gruncie rzeczy, praca komentatorów sportowych sprowadza się do modulowania tonacji wypowiedzi na ekscytującą, gdy piłka zbliża się do jednej z dwóch bramek (w przypadku piłki nożnej), a gdy piłka wpadnie do bramki imitowanie werbalnej ekstazy, zarażając tym samym wszystkich oglądających widowisko.&#xA;Na podobnej zasadzie śmiech w serialach komediowych (coraz rzadziej już spotykany). Jesteśmy zwierzętami stadnymi i otoczenie w którym przebywamy, oferuje nam zasady funkcjonowania, które obowiązują w danym środowisku.</description>
     </item>
   </channel>
