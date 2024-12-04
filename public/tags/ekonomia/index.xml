@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ekonomia on Propaganda</title>
-    <link>/tags/ekonomia/</link>
+    <link>//localhost:1313/tags/ekonomia/</link>
     <description>Recent content in Ekonomia on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sun, 27 Oct 2024 13:44:46 +0100</lastBuildDate>
-    <atom:link href="/tags/ekonomia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/ekonomia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Przegląd Makroekonomiczny (27.10.24)</title>
-      <link>/posts/post-6/</link>
+      <link>//localhost:1313/posts/post-6/</link>
       <pubDate>Sun, 27 Oct 2024 13:44:46 +0100</pubDate>
-      <guid>/posts/post-6/</guid>
+      <guid>//localhost:1313/posts/post-6/</guid>
       <description>Taniec rynkowy: zrozumienie rentowności obligacji skarbowych w 2024 r Kiedy Rezerwa Federalna obniżyła stopy o 0,5% we wrześniu, podręcznik rynkowy sugerował przewidywalny ciąg zdarzeń:&#xA;1 Rajd na giełdzie 📈&#xA;Niższe stopy = tańszy kapitał Wyższe marże zysku dla firm Ciągły wzrost gospodarczy w sektorze usług 2 Wzrost złota 🏆&#xA;Tradycyjne zabezpieczenie przed niepewnością Bardziej atrakcyjne z alternatywami o niższej rentowności Bezpieczna przystań w przypadku recesji 3 Reakcja rynku obligacji 📊</description>
     </item>
   </channel>

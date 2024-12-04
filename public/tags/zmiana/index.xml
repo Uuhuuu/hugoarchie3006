@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zmiana on Propaganda</title>
-    <link>/tags/zmiana/</link>
+    <link>//localhost:1313/tags/zmiana/</link>
     <description>Recent content in Zmiana on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sun, 17 Nov 2024 13:56:06 +0100</lastBuildDate>
-    <atom:link href="/tags/zmiana/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/zmiana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>O frustracji</title>
-      <link>/posts/post-8/</link>
+      <link>//localhost:1313/posts/post-8/</link>
       <pubDate>Sun, 17 Nov 2024 13:56:06 +0100</pubDate>
-      <guid>/posts/post-8/</guid>
+      <guid>//localhost:1313/posts/post-8/</guid>
       <description>Czym jest frustracja? Frustracja to uczucie napięcia, niepokoju lub nieporozumienia, które często występuje, gdy czujemy się niewłaściwie traktowani lub kiedy nasze oczekiwania są niespełnione. To jest naturalna reakcja na sytuacje, w których czujemy się bezsilni lub niewygodnie.&#xA;Frustracja jest częścią życia. Niczym pogoda, jest przeważnie tymczasowa. Nie da się jej zapobiec, ale można zmienić sposób reagowania na nią. Zamiast z nią walczyć, spróbuj ją zaakceptować. Łatwiej powiedzieć niż zrobić, oczywiście.</description>
     </item>
     <item>
       <title>Rozwój psychologiczny człowieka</title>
-      <link>/posts/post-7/</link>
+      <link>//localhost:1313/posts/post-7/</link>
       <pubDate>Fri, 15 Nov 2024 17:58:20 +0100</pubDate>
-      <guid>/posts/post-7/</guid>
+      <guid>//localhost:1313/posts/post-7/</guid>
       <description>How To Become More Intelligent Than 99% Of People&#xA;Droga jest celem, celem jest droga Drogą człowieka jest przetrwanie. Aby przetrwać realizuje on cele, bądź ustanawia nowe. W tym celu nasz organizm można interpretować jako system ciągle przetwarzający informacje z otoczenia w celu osiagniecia ustanowionych celów, bądź ustanawiania nowych. Bez tych procesów człowiek błąka się w świecie, tracąc powód do życia, pogrążony w negatywnych emocjach i stanach. Do tej grupy można zaliczyć potrzeby, cele, pragnienia, rzadze.</description>
     </item>
     <item>
       <title>Zbiorowa Opowieść</title>
-      <link>/posts/post-2/</link>
+      <link>//localhost:1313/posts/post-2/</link>
       <pubDate>Tue, 02 Jul 2024 15:32:29 +0200</pubDate>
-      <guid>/posts/post-2/</guid>
+      <guid>//localhost:1313/posts/post-2/</guid>
       <description>Zbiorowa opowieść - to ona tworzy otaczającą nas rzeczywistość. Tworzona i pielęgnowana przez media, kulturę, tradycje, religie, oświatę etc. To ona sprawia, że naród staje się narodem, żołnierz kładzie swoje życie na szali i całe państwo stoi w ryzach.&#xA;Opowieść - ta zbiorowa iluzja, jest zarazem barierą ochronną przed innymi opowieściami. Im lepsza i im dłużej implementowana - tym skuteczniejsza. Dostęp do internetu staje się szansą i ryzykiem dla iluzjonistów. Szansa jest na stworzenie opowieści na niespotkaną wcześniej skalę, dzięki której społeczeństwa będące pod wpływem jej uroku zrobią wiele, aby ta opowieść trwała jak najdłużej.</description>
     </item>
   </channel>

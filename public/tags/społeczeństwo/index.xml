@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Społeczeństwo on Propaganda</title>
-    <link>/tags/spo%C5%82ecze%C5%84stwo/</link>
+    <link>//localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</link>
     <description>Recent content in Społeczeństwo on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Thu, 04 Jul 2024 16:09:50 +0200</lastBuildDate>
-    <atom:link href="/tags/spo%C5%82ecze%C5%84stwo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/spo%C5%82ecze%C5%84stwo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dowód słuszności</title>
-      <link>/posts/post-5/</link>
+      <link>//localhost:1313/posts/post-5/</link>
       <pubDate>Thu, 04 Jul 2024 16:09:50 +0200</pubDate>
-      <guid>/posts/post-5/</guid>
+      <guid>//localhost:1313/posts/post-5/</guid>
       <description>Jesteśmy istotami stadnymi Nasze myśli dostosowują się do uśrednionego myślenia szeroko rozumianego ogółu. Na ogół jest to też dla nas korzystne. Nie spędzamy dzięki temu wiele czasu na analizowaniu, jak powinno się zachować w określonej sytuacji. Kopiując zachowania i myśli innych wybieramy najpewniejszą opcję na to, że nasze zachowanie nie spotka się z nieakceptacją otoczenia. W końcu postępujemy tak jak większość, a więc także i my zachowujemy się w normie. To właśnie poczynania otoczenia definiują co uważamy za słuszne, prawidłowe i stanowią one swojego rodzaju wzór do naśladowania w przyszłości.</description>
     </item>
   </channel>
