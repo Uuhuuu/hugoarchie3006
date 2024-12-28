@@ -7,13 +7,20 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Wed, 04 Dec 2024 14:53:32 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 15:36:07 +0100</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ego</title>
-      <link>/tags/ego/</link>
+      <title>Ekonomia</title>
+      <link>/tags/ekonomia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ego/</guid>
+      <guid>/tags/ekonomia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finanse</title>
+      <link>/tags/finanse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/finanse/</guid>
       <description></description>
     </item>
     <item>
@@ -21,6 +28,13 @@
       <link>/tags/psychologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/psychologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ego</title>
+      <link>/tags/ego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/tags/ego/</guid>
       <description></description>
     </item>
     <item>
@@ -35,20 +49,6 @@
       <link>/tags/inteligencja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/inteligencja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ekonomia</title>
-      <link>/tags/ekonomia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ekonomia/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Finanse</title>
-      <link>/tags/finanse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/finanse/</guid>
       <description></description>
     </item>
     <item>

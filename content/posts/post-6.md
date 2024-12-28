@@ -2,7 +2,7 @@
 title: "Przegląd Makroekonomiczny (27.10.24)"
 date: 2024-10-27T13:44:46+01:00
 draft: false
-description: Przegląd i wyjaśnienie najważniejszych wydarzeń i trendów ze światowych rynków finansowych (27.10.24)"
+description: Przegląd i wyjaśnienie najważniejszych wydarzeń i trendów ze światowych rynków finansowych (27.10.24)
 tags: [finanse, ekonomia]
 ---
 
@@ -60,6 +60,5 @@ Rynek wydaje się opowiadać nam wiele historii jednocześnie:
 - Siła gospodarcza (rosnące akcje 📈)
 - Obawy o inflację (rosnące złoto 📈)
 - Niepewność co do przyszłych stóp procentowych (rosnące rentowności 📈)
-
 
 {{< figure src="/StocksToBonds-Ratio.png" title="S&P 500 to Bonds Ratio" class="center-image" >}}

@@ -2,7 +2,7 @@
 title: "O frustracji"
 date: 2024-11-17T13:56:06+01:00
 draft: false
-description: "Oswajamy się z frustracją i poznajemy jak sobie z nią radzić w codziennym życiu"
+description: "Oswajamy się z frustracją i poznajemy jak sobie z nią radzić w codziennym życiu."
 tags: [psychologia, zmiana]
 ---
 
