@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://propagandablog.netlify.app/'
 languageCode = 'pl-PL'
 title = 'Propaganda'
 theme= "archie"

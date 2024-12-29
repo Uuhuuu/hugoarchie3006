@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Propaganda</title>
-    <link>/tags/</link>
+    <link>https://propagandablog.netlify.app/tags/</link>
     <description>Recent content in Tags on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Sat, 28 Dec 2024 15:36:07 +0100</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://propagandablog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ekonomia</title>
-      <link>/tags/ekonomia/</link>
+      <link>https://propagandablog.netlify.app/tags/ekonomia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ekonomia/</guid>
+      <guid>https://propagandablog.netlify.app/tags/ekonomia/</guid>
       <description></description>
     </item>
     <item>
       <title>Finanse</title>
-      <link>/tags/finanse/</link>
+      <link>https://propagandablog.netlify.app/tags/finanse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/finanse/</guid>
+      <guid>https://propagandablog.netlify.app/tags/finanse/</guid>
       <description></description>
     </item>
     <item>
       <title>Psychologia</title>
-      <link>/tags/psychologia/</link>
+      <link>https://propagandablog.netlify.app/tags/psychologia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/psychologia/</guid>
+      <guid>https://propagandablog.netlify.app/tags/psychologia/</guid>
       <description></description>
     </item>
     <item>
       <title>Ego</title>
-      <link>/tags/ego/</link>
+      <link>https://propagandablog.netlify.app/tags/ego/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/ego/</guid>
+      <guid>https://propagandablog.netlify.app/tags/ego/</guid>
       <description></description>
     </item>
     <item>
       <title>Zmiana</title>
-      <link>/tags/zmiana/</link>
+      <link>https://propagandablog.netlify.app/tags/zmiana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/zmiana/</guid>
+      <guid>https://propagandablog.netlify.app/tags/zmiana/</guid>
       <description></description>
     </item>
     <item>
       <title>Inteligencja</title>
-      <link>/tags/inteligencja/</link>
+      <link>https://propagandablog.netlify.app/tags/inteligencja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/inteligencja/</guid>
+      <guid>https://propagandablog.netlify.app/tags/inteligencja/</guid>
       <description></description>
     </item>
     <item>
       <title>Społeczeństwo</title>
-      <link>/tags/spo%C5%82ecze%C5%84stwo/</link>
+      <link>https://propagandablog.netlify.app/tags/spo%C5%82ecze%C5%84stwo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/spo%C5%82ecze%C5%84stwo/</guid>
+      <guid>https://propagandablog.netlify.app/tags/spo%C5%82ecze%C5%84stwo/</guid>
       <description></description>
     </item>
     <item>
       <title>Świadomość</title>
-      <link>/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
+      <link>https://propagandablog.netlify.app/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/%C5%9Bwiadomo%C5%9B%C4%87/</guid>
+      <guid>https://propagandablog.netlify.app/tags/%C5%9Bwiadomo%C5%9B%C4%87/</guid>
       <description></description>
     </item>
     <item>
       <title>Sport</title>
-      <link>/tags/sport/</link>
+      <link>https://propagandablog.netlify.app/tags/sport/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/sport/</guid>
+      <guid>https://propagandablog.netlify.app/tags/sport/</guid>
       <description></description>
     </item>
   </channel>
