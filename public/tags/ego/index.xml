@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ego on Propaganda</title>
-    <link>https://propagandablog.netlify.app/tags/ego/</link>
+    <link>http://localhost:1313/tags/ego/</link>
     <description>Recent content in Ego on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Wed, 04 Dec 2024 14:53:32 +0100</lastBuildDate>
-    <atom:link href="https://propagandablog.netlify.app/tags/ego/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ego/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teoria wielopoziomowości światopoglądowej</title>
-      <link>https://propagandablog.netlify.app/posts/post-9/</link>
+      <link>http://localhost:1313/posts/post-9/</link>
       <pubDate>Wed, 04 Dec 2024 14:53:32 +0100</pubDate>
-      <guid>https://propagandablog.netlify.app/posts/post-9/</guid>
+      <guid>http://localhost:1313/posts/post-9/</guid>
       <description>Konflikty międzyludzkie to nieodłączna część życia. Każdy z nas doświadczył sytuacji, w której spór wydawał się niekończącą się wymianą argumentów, a osiągnięcie porozumienia było niemożliwe. Dlaczego tak się dzieje? Czy istnieje sposób na zrozumienie drugiej strony, nawet jeśli nasze poglądy są skrajnie różne? Odpowiedzią może być teoria wielopoziomowości światopoglądowej, która pomaga zrozumieć, dlaczego spory są tak trudne i jak można je efektywnie rozwiązywać.&#xA;Piramida światopoglądów – jak działa nasza osobowość? Wyobraź sobie swoją osobowość jako piramidę.</description>
     </item>
   </channel>

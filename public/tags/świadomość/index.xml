@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Świadomość on Propaganda</title>
-    <link>https://propagandablog.netlify.app/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
+    <link>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
     <description>Recent content in Świadomość on Propaganda</description>
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
     <lastBuildDate>Thu, 04 Jul 2024 16:09:50 +0200</lastBuildDate>
-    <atom:link href="https://propagandablog.netlify.app/tags/%C5%9Bwiadomo%C5%9B%C4%87/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dowód słuszności</title>
-      <link>https://propagandablog.netlify.app/posts/post-5/</link>
+      <link>http://localhost:1313/posts/post-5/</link>
       <pubDate>Thu, 04 Jul 2024 16:09:50 +0200</pubDate>
-      <guid>https://propagandablog.netlify.app/posts/post-5/</guid>
+      <guid>http://localhost:1313/posts/post-5/</guid>
       <description>Jesteśmy istotami stadnymi Nasze myśli dostosowują się do uśrednionego myślenia szeroko rozumianego ogółu. Na ogół jest to też dla nas korzystne. Nie spędzamy dzięki temu wiele czasu na analizowaniu, jak powinno się zachować w określonej sytuacji. Kopiując zachowania i myśli innych wybieramy najpewniejszą opcję na to, że nasze zachowanie nie spotka się z nieakceptacją otoczenia. W końcu postępujemy tak jak większość, a więc także i my zachowujemy się w normie. To właśnie poczynania otoczenia definiują co uważamy za słuszne, prawidłowe i stanowią one swojego rodzaju wzór do naśladowania w przyszłości.</description>
     </item>
     <item>
       <title>Zbiorowa Opowieść</title>
-      <link>https://propagandablog.netlify.app/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Tue, 02 Jul 2024 15:32:29 +0200</pubDate>
-      <guid>https://propagandablog.netlify.app/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>Zbiorowa opowieść - to ona tworzy otaczającą nas rzeczywistość. Tworzona i pielęgnowana przez media, kulturę, tradycje, religie, oświatę etc. To ona sprawia, że naród staje się narodem, żołnierz kładzie swoje życie na szali i całe państwo stoi w ryzach.&#xA;Opowieść - ta zbiorowa iluzja, jest zarazem barierą ochronną przed innymi opowieściami. Im lepsza i im dłużej implementowana - tym skuteczniejsza. Dostęp do internetu staje się szansą i ryzykiem dla iluzjonistów. Szansa jest na stworzenie opowieści na niespotkaną wcześniej skalę, dzięki której społeczeństwa będące pod wpływem jej uroku zrobią wiele, aby ta opowieść trwała jak najdłużej.</description>
     </item>
     <item>
       <title>Ekonomia binarna</title>
-      <link>https://propagandablog.netlify.app/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Mon, 01 Apr 2024 02:01:58 +0530</pubDate>
-      <guid>https://propagandablog.netlify.app/posts/post-1/</guid>
+      <guid>http://localhost:1313/posts/post-1/</guid>
       <description>Chcąc podejmować świadome decyzje, winniśmy zrozumieć zasady, normy przyjęte w obrębie określonej społeczności w której funkcjonujemy. Nie jest to zadanie tak błahe, jak mogłoby się na pierwszy rzut oka wydawać, wszakże każdy z nas naturalnym widzi wszystko co się dzieje dookoła niego. Spróbujmy odpowiedzieć sobie na pytanie:&#xA;W jakim tak właściwie systemie ekonomicznym żyjemy? Jeśli mieszkasz w kraju demokratycznym, standardową odpowiedzią będzie - kapitalizm.</description>
     </item>
   </channel>
