@@ -432,8 +432,7 @@ table td {
   border: 1px solid #dfe2e5;
 }
 .datawpis {
-  margin-bottom: -0.1rem;
-  margin-top: 0.05rem;
+margin-bottom: -.1rem  margin-top: 0.05rem;
   margin-left: 1.3rem;
   font-size: 0.85rem;
 }
