@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-20T19:46:37+01:00</lastmod>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post-12/</loc>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychologia/</loc>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ekonomia/</loc>
     <lastmod>2025-01-20T19:46:37+01:00</lastmod>
@@ -14,17 +29,8 @@
     <loc>http://localhost:1313/posts/post-11/</loc>
     <lastmod>2025-01-20T19:46:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-20T19:46:37+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</loc>
     <lastmod>2025-01-20T19:46:37+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-20T19:46:37+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/psychologia/</loc>
-    <lastmod>2024-12-28T15:36:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-10/</loc>
     <lastmod>2024-12-28T15:36:07+01:00</lastmod>
@@ -51,9 +57,6 @@
     <lastmod>2024-10-27T13:44:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-5/</loc>
-    <lastmod>2024-07-04T16:09:50+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
     <lastmod>2024-07-04T16:09:50+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-2/</loc>

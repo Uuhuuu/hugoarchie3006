@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 19:46:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 17:18:37 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Psychologia</title>
+      <link>http://localhost:1313/tags/psychologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/psychologia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Świadomość</title>
+      <link>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ekonomia</title>
       <link>http://localhost:1313/tags/ekonomia/</link>
@@ -31,13 +45,6 @@
       <description></description>
     </item>
     <item>
-      <title>Psychologia</title>
-      <link>http://localhost:1313/tags/psychologia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/psychologia/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Ego</title>
       <link>http://localhost:1313/tags/ego/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,13 +63,6 @@
       <link>http://localhost:1313/tags/inteligencja/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/inteligencja/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Świadomość</title>
-      <link>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</guid>
       <description></description>
     </item>
     <item>

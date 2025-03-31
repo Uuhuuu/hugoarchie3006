@@ -1,8 +1,8 @@
 ---
 title: "Przewidując teraźniejszość"
 date: 2025-03-31T17:18:37+02:00
-draft: true
-description: "Twój mózg nieustannie z tobą pogrywa"
+draft: false
+description: "Twój mózg nieustannie z tobą pogrywa..."
 tags: [psychologia, świadomość]
 ---
 
@@ -13,3 +13,7 @@ To, czego doświadczasz jako "teraz", jest w rzeczywistości selektywnie zredago
 Twoje emocje to nie tylko reakcje, ale i przewidywania. Twój mózg analizuje przeszłe doświadczenia, aby cię przygotować. Robisz się głodny, ponieważ twój mózg zakłada, że nadszedł czas na jedzenie. Jeśli twój mózg przewiduje niepokój, dostosowuje twoje ciało, powodując, że czujesz się niespokojny.
 
 Twoja świadoma jaźń nie decyduje o większości rzeczy, które robisz. Jest bardziej jak pasażer decydujący, dokąd jechać. Twoja świadoma jaźń opowiada historię twojego życia twojemu mózgowi i tobie, tworząc niezaprzeczalną rzeczywistość. Możesz nie siedzieć za kierownicą, ale jesteś pasażerem, który decyduje, dokąd zmierza twoje życie
+
+---
+
+{{< figure src="https://image.lexica.art/full_webp/099dbbd3-eda9-4519-ae7e-42f12345cf21" title="AI showcasing table tennis" >}}
