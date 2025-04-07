@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Mon, 31 Mar 2025 17:18:37 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 12:54:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ekonomia</title>
+      <link>http://localhost:1313/tags/ekonomia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ekonomia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zmiana</title>
+      <link>http://localhost:1313/tags/zmiana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zmiana/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Psychologia</title>
       <link>http://localhost:1313/tags/psychologia/</link>
@@ -21,13 +35,6 @@
       <link>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ekonomia</title>
-      <link>http://localhost:1313/tags/ekonomia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ekonomia/</guid>
       <description></description>
     </item>
     <item>
@@ -49,13 +56,6 @@
       <link>http://localhost:1313/tags/ego/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ego/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Zmiana</title>
-      <link>http://localhost:1313/tags/zmiana/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/zmiana/</guid>
       <description></description>
     </item>
     <item>

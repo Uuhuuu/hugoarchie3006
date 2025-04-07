@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 19:46:37 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 12:54:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ekonomia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak przełamać stagflację?</title>
+      <link>http://localhost:1313/posts/post-13/</link>
+      <pubDate>Mon, 07 Apr 2025 12:54:45 +0200</pubDate>
+      <guid>http://localhost:1313/posts/post-13/</guid>
+      <description>Stagflacja – czyli połączenie niskiego wzrostu i wysokiej inflacji – to jeden z najtrudniejszych problemów gospodarczych. Tradycyjne narzędzia walki z inflacją (podwyżki stóp procentowych) mogą pogłębić stagnację, a stymulowanie wzrostu (tani kredyt, wydatki rządowe) często napędza inflację. Gdzie leży rozwiązanie? Klucz tkwi w nierównościach i błędnej alokacji pieniądza w gospodarce.&#xA;Dlaczego stagflacja uderza w gospodarkę? Niesprawiedliwy przepływ pieniądza Gdy banki centralne pompują płynność (np. luzowanie ilościowe – QE), pieniądz trafia głównie na rynki finansowe (giełda, nieruchomości), a nie do realnej gospodarki.</description>
+    </item>
     <item>
       <title>On BS Jobs</title>
       <link>http://localhost:1313/posts/post-11/</link>
