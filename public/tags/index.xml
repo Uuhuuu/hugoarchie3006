@@ -7,13 +7,20 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 12:54:45 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 08 Apr 2025 16:14:44 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ekonomia</title>
       <link>http://localhost:1313/tags/ekonomia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ekonomia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Społeczeństwo</title>
+      <link>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</guid>
       <description></description>
     </item>
     <item>
@@ -42,13 +49,6 @@
       <link>http://localhost:1313/tags/finanse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/finanse/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Społeczeństwo</title>
-      <link>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</guid>
       <description></description>
     </item>
     <item>
