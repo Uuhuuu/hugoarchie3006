@@ -1,4 +1,7 @@
 {
+  "[html]": {
+    "editor.formatOnSave": false
+  },
   "cSpell.words": [
     "czwartoosobowa",
     "Metaperspektywa",
