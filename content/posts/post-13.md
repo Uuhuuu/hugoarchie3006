@@ -30,16 +30,19 @@ Dane: W USA liczba startupów spadła o 50% od 1980 r., a marże zysków potroi�
 
 ## Co mogą zrobić banki centralne?
 
-✅ 1. Ukierunkowane programy kredytowe
-Zamiast pompowania pieniędzy w banki, lepiej finansować małe firmy, zieloną energię i mieszkania socjalne (np. jak ECB w czasie pandemii).
+✅ 1. Ukierunkowane programy kredytowe.
 
-✅ 2. „Helikopterowy pieniądz” zamiast QE
-Dlaczego luzowanie ilościowe (QE) nie działa? Bo wzbogaca głównie posiadaczy akcji.
+- Zamiast pompowania pieniędzy w banki, lepiej finansować małe firmy, zieloną energię i mieszkania socjalne (np. jak ECB w czasie pandemii).
+
+✅ 2. QE (luzowanie ilościowe)
+
+- Dlaczego luzowanie ilościowe (QE) nie działa? Bo wzbogaca głównie posiadaczy akcji.
 
 Lepsze rozwiązanie: Bezpośrednie transfery dla najbiedniejszych (np. świadczenia pandemiczne w 2020 r. obniżyły ubóstwo, mimo inflacji).
 
 ✅ 3. Elastyczniejsza inflacja
-Sztywne dążenie do celu 2% inflacji może zabić wzrost. Lepiej dopuścić 3–4% inflacji, by uniknąć zbyt ostrych podwyżek stóp (rekomendacja MFW).
+
+- Sztywne dążenie do celu 2% inflacji może zabić wzrost. Lepiej dopuścić 3–4% inflacji, by uniknąć zbyt ostrych podwyżek stóp (rekomendacja MFW).
 
 ## Co powinien zrobić rząd?
 
