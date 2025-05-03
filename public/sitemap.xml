@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-29T16:59:28+02:00</lastmod>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/psychologia/</loc>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</loc>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post-17/</loc>
+    <lastmod>2025-05-03T16:02:09+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ekonomia/</loc>
     <lastmod>2025-04-29T16:59:28+02:00</lastmod>
@@ -12,12 +27,6 @@
     <lastmod>2025-04-29T16:59:28+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-16/</loc>
-    <lastmod>2025-04-29T16:59:28+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-04-29T16:59:28+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-04-29T16:59:28+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/klimat/</loc>
@@ -32,16 +41,10 @@
     <loc>http://localhost:1313/posts/post-14/</loc>
     <lastmod>2025-04-08T16:14:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/spo%C5%82ecze%C5%84stwo/</loc>
-    <lastmod>2025-04-08T16:14:44+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/post-13/</loc>
     <lastmod>2025-04-07T12:54:45+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-12/</loc>
-    <lastmod>2025-03-31T17:18:37+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/psychologia/</loc>
     <lastmod>2025-03-31T17:18:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/%C5%9Bwiadomo%C5%9B%C4%87/</loc>
