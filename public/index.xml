@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>pl-PL</language>
     <copyright>© JesterPawel</copyright>
-    <lastBuildDate>Sat, 03 May 2025 16:02:09 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guziec</title>
+      <link>http://localhost:1313/posts/post-18/</link>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/post-18/</guid>
+      <description>Obrazy g1 g1 (png) g10 g2 g3 g4 g5 g6 g7 g8 g9 gpt1 gpt2 hf1 Videos Your browser does not support the video tag.&#xD;Your browser does not support the video tag.&#xD;</description>
+    </item>
     <item>
       <title>Zanudzeni na śmierć</title>
       <link>http://localhost:1313/posts/post-17/</link>
@@ -113,6 +120,20 @@
       <pubDate>Sun, 30 Jun 2024 15:32:29 +0200</pubDate>
       <guid>http://localhost:1313/posts/post-3/</guid>
       <description>Na czym polega praca komentatorów sportowych? W gruncie rzeczy, praca komentatorów sportowych sprowadza się do modulowania tonacji wypowiedzi na ekscytującą, gdy piłka zbliża się do jednej z dwóch bramek (w przypadku piłki nożnej), a gdy piłka wpadnie do bramki imitowanie werbalnej ekstazy, zarażając tym samym wszystkich oglądających widowisko.&#xA;Na podobnej zasadzie śmiech w serialach komediowych (coraz rzadziej już spotykany). Jesteśmy zwierzętami stadnymi i otoczenie w którym przebywamy, oferuje nam zasady funkcjonowania, które obowiązują w danym środowisku.</description>
+    </item>
+    <item>
+      <title>Markdown content</title>
+      <link>http://localhost:1313/posts/post-syntax2/</link>
+      <pubDate>Tue, 18 Jun 2024 19:00:01 +0200</pubDate>
+      <guid>http://localhost:1313/posts/post-syntax2/</guid>
+      <description>Tweet The top gainers list today is some kind of sick joke.&#xA;All the dinosaur coins running.$XRP, $ALGO, $ADA, $HBAR, $XLM, $LTC pic.twitter.com/fKMhZQD3oA&#xA;&amp;mdash; Miles Deutscher (@milesdeutscher) November 15, 2024 </description>
+    </item>
+    <item>
+      <title>Markdown Syntax Handbook</title>
+      <link>http://localhost:1313/posts/post-syntax1/</link>
+      <pubDate>Sun, 14 Apr 2024 15:31:29 +0200</pubDate>
+      <guid>http://localhost:1313/posts/post-syntax1/</guid>
+      <description>Rozdział nr 1 Rozdział nr 2 Rozdział nr 3 Rozdział nr 4 Rozdział nr 5 Rozdział nr 6 bold text&#xA;italicized text&#xA;blockquote&#xA;First item Second item Third item code&#xA;&amp;lt;p&amp;gt;hello world&amp;lt;/p&amp;gt; title&#xA;Table Syntax Description Header Title Paragraph Text Fenced Code Block { &amp;ldquo;firstName&amp;rdquo;: &amp;ldquo;John&amp;rdquo;, &amp;ldquo;lastName&amp;rdquo;: &amp;ldquo;Smith&amp;rdquo;, &amp;ldquo;age&amp;rdquo;: 25 }&#xA;Update the website Footnote Here&amp;rsquo;s a sentence with a footnote. 1&#xA;This is the footnote.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Co jest grane?</title>

@@ -1,12 +1,12 @@
 ---
 title: "Guziec"
 date: 2026-03-03T12:00:00Z
-categories: [gallery]
+draft: false
+description: "Guziec."
 ---
 
-### Images
+### Obrazy
 
-{{< gallery >}}
 {{< figure src="/images/post18/g1.jpg" title="g1" >}}
 {{< figure src="/images/post18/g1.png" title="g1 (png)" >}}
 {{< figure src="/images/post18/g10.jpg" title="g10" >}}
@@ -21,7 +21,6 @@ categories: [gallery]
 {{< figure src="/images/post18/gpt1.png" title="gpt1" >}}
 {{< figure src="/images/post18/gpt2.png" title="gpt2" >}}
 {{< figure src="/images/post18/hf1.png" title="hf1" >}}
-{{< /gallery >}}
 
 ### Videos
 
