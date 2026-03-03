@@ -304,7 +304,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
 }
 
 /* Callout */
@@ -492,7 +492,7 @@ video {
   width: auto;
   height: auto;
   display: block;
-  margin: 2.5rem auto 1.5rem; /* vertical spacing + center */
+  margin: 2.5rem auto 1.5rem; vertical spacing + center
   border: 2px solid #0e0920;
   border-radius: 5%;
 }

@@ -304,7 +304,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
 }
 
 /* Callout */
@@ -487,6 +487,38 @@ table td {
    Videos – centered, responsive, consistent with images
    ──────────────────────────────────────── */
 
+/* .video-figure {
+  display: block;
+  margin: 2.5rem auto; /* same vertical spacing as images + center */
+  max-width: 100%;
+  text-align: center;
+  padding: 0;
+}
+
+.video-figure video {
+  max-width: 100%; /* responsive scaling */
+  width: auto; /* narrow videos keep natural width */
+  height: auto; /* preserve aspect ratio */
+  display: block;
+  margin: 0 auto; /* bulletproof centering */
+  border: 2px solid #0e0920; /* match your image border style */
+  border-radius: 5%; /* match image rounding */
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1); /* optional subtle shadow */
+}
+
+/* Breathing room between consecutive videos (or video after image) */
+.video-figure + .video-figure,
+figure + .video-figure,
+.video-figure + figure {
+  margin-top: 1.8rem;
+}
+
+/* Optional: limit max size on very large screens (adjust value to taste) */
+@media (min-width: 1200px) {
+  .video-figure {
+    max-width: 960px; /* or 85%, 1140px – prevents huge videos */
+  }
+} */
 video {
   max-width: 100%;
   width: auto;

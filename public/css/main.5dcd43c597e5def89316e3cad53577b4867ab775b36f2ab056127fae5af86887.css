@@ -304,7 +304,7 @@ time {
 
 /* Posts */
 article .title {
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
 }
 
 /* Callout */
